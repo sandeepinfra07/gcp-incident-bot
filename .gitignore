@@ -1,0 +1,4 @@
+node_modules/
+.gcloudignore
+*.zip
+.env

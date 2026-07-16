@@ -1,0 +1,10 @@
+{
+  "name": "prod-alert-filter",
+  "version": "1.0.0",
+  "description": "Filters Cloud Run error alerts and forwards prod services to YOUR_PUBSUB_TOPIC topic",
+  "main": "index.js",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@google-cloud/pubsub": "^4.9.0"
+  }
+}
